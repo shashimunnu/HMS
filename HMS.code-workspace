@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 1000,
+		"editor.formatOnSave": true,
+		"editor.tabSize": 4,
+		"editor.insertSpaces": true,
+		"files.encoding": "utf8",
+		"php.validate.enable": true,
+		"php.suggest.basic": true,
+		"files.exclude": {
+			"**/.git": true,
+			"**/.DS_Store": true
+		},
+		"explorer.compactFolders": false,
+		"workbench.editor.enablePreview": false
+	}
+}
